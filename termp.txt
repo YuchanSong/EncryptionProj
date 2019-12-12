@@ -1,0 +1,36 @@
+Python Security Programming Term Project :Python Security with GUI
+Final Submit : 2018. 12. 22. PM 6:00 (20 Points)
+
+Topic : Secure Client/Server Inter-Comm. (Message Exchange)
+
+Part 1 : Hybrid Secure Communication (5 Point)
+1. AES based Message Enc/Dec (Confidentiality)
+2. RSA based Key Exchange
+
+Part 2 : Client/Server Inter-Communication with Verification (5 Point)
+1. Using One-way Hash : SHA, etc (Integrity)
+2. Using Digital Signature (Non-repudiation)
+
+Part 3 : Message Exchange (10 Point)
+1. Client/Server with Socket
+2. Implement with Python GUI (Without GUI : -5 Points)
+
+Additional Points (Options)
+File Transmission, etc. (+5)
+
+Term Project 수행방식
+- 1인 프로젝트 수행 (20점)
+
+제출 기한 및 제출 방법
+
+제출 기한(엄수)
+- 2018년 12월 22일(토) 저녁 6시까지
+
+제출 방법(확인)
+- 전체 소스코드 & 개발 결과물에 대한 PPT 작성 (전체 압축 한 후 및 LMS에 기한내 업로드)
+- PPT 포함 내용 : 개발 프로그램 구조, 설계 현황 내용 등 반드시 포함
+- PPT 양식 : 반드시 본 PPT 양식을 사용 (반드시 프로젝트 수행 ‘후기/소감’ 포함)
+
+- 소스코드 설명 및 실행 결과에 대한 동영상 제작(동영상 파일에 대해 아래 메일로 전송)
+- 메일 주소 : hwlee@hs.ac.kr 또는 hyungwoo8299@gmail.com
+- 메일 제목 : 2018 보안프로그래밍 Term Project 학번 이름
